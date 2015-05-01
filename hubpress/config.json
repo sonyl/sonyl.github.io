@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "sonyl",
-    "repositoryName": "sonyl.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"sonyl","repositoryName":"sonyl.github.io","branch":"master"},"site":{"title":"Bli Bla Blub","description":"ein langer BliBlaBlub-Text","url":"https://sonyl.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//sonyl.github.io/themes/Casper"}}
