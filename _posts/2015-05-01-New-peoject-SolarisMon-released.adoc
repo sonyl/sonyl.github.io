@@ -1,11 +1,7 @@
-= Guten Tag
+= New peoject SolarisMon released
 
-== kleinere Überschrift
+Recently i released my new _homeautomation_ project solarismon. It's main goal is to monitor the behavior and afterwards optimize the settings of a Rotex Solaris RPS3 solar heating system.
 
-=== noch etwas kleiner
+Find the project in it's link:https://github.com/sonyl/solarismon[GitHub respository].
+More information about the project is available on the  link:https://github.com/sonyl/solarismon[project main site].
 
-==== das reicht jetzt aber
-
-_kursiv_ und *fett*, und  *_kursiv-fett_*
-
-und hier geht's dann ganz normal weiter
