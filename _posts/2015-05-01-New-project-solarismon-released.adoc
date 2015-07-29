@@ -3,5 +3,5 @@
 Recently I released my new _homeautomation_ project link:https://github.com/sonyl/solarismon[solarismon]. Its main goal is to monitor the behavior and afterwards optimize the settings of a link:http://www.rotex-heating.com/[Rotex Solaris RPS3 solar heating system].
 
 Find the project in its link:https://github.com/sonyl/solarismon[GitHub respository].
-More information about the project is available on the  link:https://github.com/sonyl/solarismon[project main site].
+More information about the project is available on the  link:https://sonyl.github.io/solarismon[project main site].
 
