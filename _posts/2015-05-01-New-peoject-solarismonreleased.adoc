@@ -1,7 +1,7 @@
-= New peoject SolarisMon released
+= New peoject 'solarismon'released
 
-Recently i released my new _homeautomation_ project solarismon. It's main goal is to monitor the behavior and afterwards optimize the settings of a Rotex Solaris RPS3 solar heating system.
+Recently I released my new _homeautomation_ project link:https://github.com/sonyl/solarismon['solarismon']. Its main goal is to monitor the behavior and afterwards optimize the settings of a link:http://www.rotex-heating.com/[Rotex Solaris RPS3 solar heating system].
 
-Find the project in it's link:https://github.com/sonyl/solarismon[GitHub respository].
+Find the project in its link:https://github.com/sonyl/solarismon[GitHub respository].
 More information about the project is available on the  link:https://github.com/sonyl/solarismon[project main site].
 
